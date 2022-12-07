@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dice-react/static/css/main.3db84778.chunk.css",
+    "main.js": "/dice-react/static/js/main.1af67001.chunk.js",
+    "main.js.map": "/dice-react/static/js/main.1af67001.chunk.js.map",
+    "runtime-main.js": "/dice-react/static/js/runtime-main.ece6da29.js",
+    "runtime-main.js.map": "/dice-react/static/js/runtime-main.ece6da29.js.map",
+    "static/js/2.cc7c1583.chunk.js": "/dice-react/static/js/2.cc7c1583.chunk.js",
+    "static/js/2.cc7c1583.chunk.js.map": "/dice-react/static/js/2.cc7c1583.chunk.js.map",
+    "index.html": "/dice-react/index.html",
+    "static/css/main.3db84778.chunk.css.map": "/dice-react/static/css/main.3db84778.chunk.css.map",
+    "static/js/2.cc7c1583.chunk.js.LICENSE.txt": "/dice-react/static/js/2.cc7c1583.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/dice-react/static/media/nodice.3fea97db.png",
+    "static/media/dice.3773d55e.wav": "/dice-react/static/media/dice.3773d55e.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ece6da29.js",
+    "static/js/2.cc7c1583.chunk.js",
+    "static/css/main.3db84778.chunk.css",
+    "static/js/main.1af67001.chunk.js"
+  ]
+}
